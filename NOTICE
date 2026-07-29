@@ -1,0 +1,7 @@
+milpa/notifications — Channel-agnostic notification dispatch for the Milpa PHP framework: register channels (Telegram, Pushover, WebSocket, ...) and fan a payload out to recipients by "channel:recipient".
+Copyright 2026 Rodrigo Vicente Gómez / TeamX Agency
+
+This product includes software developed by
+Rodrigo Vicente - TeamX Agency — https://x.com/rodrigoteamx
+
+https://teamx.agency · https://github.com/getmilpa/notifications
